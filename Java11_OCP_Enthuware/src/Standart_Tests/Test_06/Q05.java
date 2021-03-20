@@ -1,30 +1,20 @@
 package Standart_Tests.Test_06;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.DoubleFunction;
+
 public class Q05 {
     public static void main(String[] args) {
-        compute1();
-        compute2();
-        compute3();
-        compute4();
+
+//        Given:
+
+        List<Double> dList = Arrays.asList(10.0, 12.0);
+        DoubleFunction df = x->x+10;
+//        dList.stream().forEach(df);
+        dList.stream().forEach(d->System.out.println(d));
+
+//        What will it print when compiled and run?
     }
 
-    static void compute1() {
-
-        System.out.println();
-    }
-
-    static void compute2() {
-
-        System.out.println();
-    }
-
-    static void compute3() {
-
-        System.out.println();
-    }
-
-    static void compute4() {
-
-        System.out.println();
-    }
 }
