@@ -1,0 +1,31 @@
+package classdesign;
+
+class WhiteStarLiner implements Sinkable {
+
+    public void sink() {
+    }
+}
+
+abstract class Shipwreck extends WhiteStarLiner {
+}
+
+class Britannic extends WhiteStarLiner {
+
+    protected void sink(int numberOfMines) {
+    }
+}
+
+class Titanic extends WhiteStarLiner implements Sinkable {
+
+    public void hitIceberg() {
+    }
+}
+
+interface Sinkable {
+
+    public abstract void sink();
+}
+
+public class PQ_20 {
+
+}
