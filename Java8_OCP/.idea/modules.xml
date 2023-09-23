@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1z0_809_V14_95.iml" filepath="$PROJECT_DIR$/1z0_809_V14_95.iml" />
+      <module fileurl="file://$PROJECT_DIR$/809/809.iml" filepath="$PROJECT_DIR$/809/809.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_5/Group_01_ClassDesign/Group_01_ClassDesign.iml" filepath="$PROJECT_DIR$/Section_5/Group_01_ClassDesign/Group_01_ClassDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_5/Group_02_AdvancedClassDesign/Group_02_AdvancedClassDesign.iml" filepath="$PROJECT_DIR$/Section_5/Group_02_AdvancedClassDesign/Group_02_AdvancedClassDesign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_5/Group_03_CollectionsGenerics/Group_03_CollectionsGenerics.iml" filepath="$PROJECT_DIR$/Section_5/Group_03_CollectionsGenerics/Group_03_CollectionsGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_5/Group_04_FunctionalInterfaces/Group_04_FunctionalInterfaces.iml" filepath="$PROJECT_DIR$/Section_5/Group_04_FunctionalInterfaces/Group_04_FunctionalInterfaces.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Section_5/Group_05_StreamAPI/Group_05_StreamAPI.iml" filepath="$PROJECT_DIR$/Section_5/Group_05_StreamAPI/Group_05_StreamAPI.iml" />
+    </modules>
+  </component>
+</project>
